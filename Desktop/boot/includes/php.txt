@@ -1,0 +1,150 @@
+Rinkal Suthar PE Intern
+Q1.1-ii)
+Q1.2- PHP files have a default file extension of .php 
+Q1.3- A PHP script should start with <? and end with ?>
+Q1.4-ii)
+Q1.5-ii)
+Q1.6-b)
+Q1.7-ii)
+Q1.8-iii)
+Q1.9-1+2
+Q1.10-3
+Q2.1-iii)
+Q2.2-My name is BobMy name is Bob
+Q2.3-ii)
+Q2.4-
+Q2.5-1234
+Q2.6-35
+Q2.7-b)
+Q2.8-echo $x
+Q2.9-123
+Q2.10-
+Q3.1-returns 1
+Q3.2-\n
+Q3.3-What is her age? 
+     She is $num years old
+Q3.4-All
+Q3.5-I love arsena
+Q3.5-all
+Q3.6-Ashley 
+     Bale 
+     Shrek
+Q3.7-5
+Q3.8-
+Q3.9-
+Q3.10-Rasmus Lerdorf
+Q4.1-function function_name(){}
+Q4.2-
+Q4.3-15 and 3 are the values been called
+Q4.4-
+Q4.5-i)andiv)
+Q4.6-I am b
+Q4.7-
+Q4.8-hello
+Q4.9-a)
+Q4.10-will this work
+Q5.1-func_get_args()
+Q5.2-File_exists
+Q5.3-memory_get_usage()
+Q5.4-uniqid(
+Q5.5-gzcompress 
+Q5.6-d)
+Q5.7-104
+Q5.8-
+Q5.9-I Love My Country
+Q5.10-welcome to india
+Q6.1-0
+Q6.2-i)
+Q6.3-11,35,000
+Q6.4-is_array()
+Q6.5-array_push()
+Q6.6-2
+Q6.7-orangebanana
+Q6.8-prev()
+Q6.9-
+Q6.10-array_count_values()
+Q7.1-d)
+Q7.2-I like Toyota, BMW and Volvo
+Q7.3-Array [35] => Peter [37] => Ben [43] => Joe
+Q7.4-[A] => 5 [Cat] => 2 [Dog] => 2 [Tiger] => 1
+Q7.5-Array ( [a] => red [b] => green [c] => blue [d] => yellow )
+Q7.6-india
+Array ( [b] => Brazil )
+Q7.7-Array ( [1] => hello [2] => hello [3] => hello [4] => hello [5] => php ) 
+Array ( [5] => php )
+Q7.8-Sam is the brother of Bob and Bob
+Q7.9-
+Q7.10-Array ( [0] => LA [1] => Paris [2] => Paris )
+Q8.1-Array ( [HARRY] => 21 [RON] => 23 )
+Q8.2-Array([red]=>a [green]=>b [blue]=>c [yellow]=>d)
+Q8.3-Array([a]=>red [b]=>green [c]=>blue)
+Q8.4-120
+Q8.5-c
+Q8.6-array([0]=>Mumbai [1]=>Beijing)
+Q8.7-
+Q8.8- Array ( [0] => 0 [1] => 1 [2] => 2 [3] => 3 [4] => 4 [5] => 5 )
+Q8.9-Array ( [0] => red [1] => green [2] => blue [3] => yellow )
+Q8.10-Key = Harry, Value = 21
+Key = Malfoy, Value = 23
+Key = Ron, Value = 19
+Q9.1-I like Volvo,BMW and Toyota
+Q9.2- Array ( [PETER] => 35 [BEN] => 37 [JOE] => 43 )
+Q9.3-
+Q9.4-Array ( [Peter] => 35 [Ben] => 37 [Joe] => 43 )
+Q9.5-d)
+Q9.6-Array ( [d] => yellow )
+Q9.7-Array ( [3] => blue [4] => blue [5] => blue [6] => blue )
+Array ( [0] => red )
+Q9.8- Array ( [0] => red [1] => green [2] => blue [3] => yellow )
+Q9.9-array([a]=>green [b]=>blue)
+Q9.10-Array ( [0] => red [1] => green )
+Q10.1-
+Q10.2-rsort()
+Q10.3-Array ( [1] => apple [0] => mango [2] => peach [3] => pear )
+Q10.4-
+Q10.5-
+Q10.6-Array ( [0] => A [1] => J [2] => Q [3] => K [4] => 2 [5] => 3 [6] => 4 [7] => 5 [8] => 6 [9] => 7 [10] => 8 [11] => 9 [12] => 10 )
+Q10.7-Array ( [0] => peach [1] => pear [2] => orange )
+Q10.8-
+Q10.9-6
+Q10.10-Array ( [0] => KA [2] => CA [4] => TA )
+Q11.1-Encapsulation
+Q11.2-Polymorphism
+Q11.3-
+Q11.4-
+Q11.5-
+Q11.6-
+Q11.7-
+Q11.8-
+Q11.9-i)
+Q11.10-
+Q12.1-
+Q12.2-all
+Q12.3-function_contructor()
+Q12.4-PHP5
+Q12.5-class_exist()
+Q12.6-
+Q12.7-
+Q12.8-
+Q12.9-
+Q13.1-iii)
+Q13.2-PHP5
+Q13.4-ii)
+Q13.8-__clone()
+Q13.9-Method chaining
+Q13.10-__call
+Q14.2-run-time error
+Q14.3-PHP5
+Q14.4-~
+Q14.5-E_ERROR,E-COMPILE_ERROR and E_CORE_ERROR
+Q14.10-syslog()
+Q15.1-PHP5
+Q15.4- throw new Exception();
+Q15.7-Standard PHP Library
+Q15.9-all are exceptions
+Q15.10-i)
+Q16.1-all
+Q16.2-validation
+sanitization
+Q16.3- filter_var_array()
+Q16.4-Integer is valid
